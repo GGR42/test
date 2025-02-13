@@ -45,6 +45,6 @@ body:after {
 
 /*  Youtubeリンク用  */
 .video00 iframe {
-  width: 100%;
+  width: 50%;
   aspect-ratio: 16 / 9;
 }
