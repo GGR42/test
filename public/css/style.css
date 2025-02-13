@@ -49,5 +49,5 @@ body:after {
   width: 50%;
   height: 50%;
   aspect-ratio: 16 / 9;
-  margin: 0 auto;
+  margin: 0px auto;
 }
