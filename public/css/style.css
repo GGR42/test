@@ -54,5 +54,17 @@ body:after {
 
 /*ポートフォリオ*/
 .portfolio a{
+  display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
+  width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
+  margin: 0 auto;      /* ３．左右中央寄せにする */
+
   color: blue;
+}
+
+/*ホーム*/
+.homepage h1{
+  height: 100px;
+  color: chocolate;
+
+  text-align: center;
 }
