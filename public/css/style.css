@@ -51,3 +51,8 @@ body:after {
   aspect-ratio: 16 / 9;
   margin: 0px auto;
 }
+
+/*ポートフォリオ*/
+.portfolio a{
+  color: blue;
+}
