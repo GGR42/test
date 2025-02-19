@@ -78,10 +78,14 @@ body:after {
   position: absolute;
   right: 0;
   bottom: 0;
+
+  display:flex;
 }
 
 .xlink{
   position: absolute;
   right: 0;
   bottom: 0;
+
+  display:flex;
 }
