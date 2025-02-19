@@ -72,9 +72,9 @@ body:after {
 /* リンク類 */
 .sitelink{
   flex-direction:column;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
+  position:fixed;
+  bottom: 5%;
+  right: 5%;
 }
 
 .youtubechannel{
