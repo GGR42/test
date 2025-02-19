@@ -74,13 +74,13 @@ body:after {
   position: relative;
 }
 
-.g-ytsubscribe{
+.youtubechannel{
   position: absolute;
   right: 0;
   bottom: 0;
 }
 
-.twitter-follow-button{
+.xlink{
   position: absolute;
   right: 0;
   bottom: 0;
