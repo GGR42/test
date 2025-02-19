@@ -72,25 +72,18 @@ body:after {
 /* リンク類 */
 .sitelink{
   position: relative;
+  display:flex;
+  flex-flow:column;
 }
 
 .youtubechannel{
-  display:flex;
-  flex-flow:column;
   position: absolute;
   right: 0;
   bottom: 0;
-
-
 }
 
 .xlink{
-  display:flex;
-  flex-flow:column;
-  
   position: absolute;
   right: 0;
   bottom: 0;
-
-
 }
