@@ -68,3 +68,11 @@ body:after {
 
   text-align: center;
 }
+
+/* リンク類 */
+.xlink{
+  width: 10px;
+  height: 10px;
+
+  color: black;
+}
