@@ -70,3 +70,18 @@ body:after {
 }
 
 /* リンク類 */
+.sitelink{
+  position: relative;
+}
+
+.g-ytsubscribe{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.twitter-follow-button{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
