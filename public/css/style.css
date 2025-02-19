@@ -75,17 +75,19 @@ body:after {
 }
 
 .youtubechannel{
+  display:flex;
   position: absolute;
   right: 0;
   bottom: 0;
 
-  display:flex;
+
 }
 
 .xlink{
+  display:flex;
   position: absolute;
   right: 0;
   bottom: 0;
 
-  display:flex;
+
 }
