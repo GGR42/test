@@ -43,6 +43,12 @@ body:after {
   left: 0;
 }
 
+.video-wrap {
+  position: fixed;
+
+  z-index: -1;
+}
+
 /* ショートカット */
 .shortcut{
   position: fixed;
