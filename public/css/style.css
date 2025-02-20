@@ -83,6 +83,12 @@ body:after {
   height: 50px;
 }
 
+.xTimeline{
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
 .contact{
   display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
   width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
