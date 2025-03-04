@@ -29,9 +29,6 @@
   display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
   width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
   margin: 0 auto;      /* ３．左右中央寄せにする */
-
-  max-width: 100%;
-  height: auto;
 }
 
 /* ブログ */
@@ -39,9 +36,6 @@
   display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
   width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
   margin: 0 auto;      /* ３．左右中央寄せにする */
-
-  max-width: 100%;
-  height: auto;
 }
 
 /* リンク類 */
@@ -94,9 +88,6 @@
     display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
     width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
     margin: 0 auto;      /* ３．左右中央寄せにする */
-
-    max-width: 100%;
-    height: auto;
   }
   
   /* ブログ */
@@ -104,9 +95,6 @@
     display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
     width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
     margin: 0 auto;      /* ３．左右中央寄せにする */
-
-    max-width: 100%;
-    height: auto;
   }
 
   /* リンク類 */
@@ -160,9 +148,6 @@
     display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
     width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
     margin: 0 auto;      /* ３．左右中央寄せにする */
-
-    max-width: 100%;
-    height: auto;
   }
   
   /* ブログ */
@@ -170,9 +155,6 @@
     display: block;      /* １．aタグをブロック要素にしてmarginが効くようにする */
     width: fit-content;  /* ２．ブロック要素になり親要素いっぱいになった横幅をテキスト幅に合わせる */
     margin: 0 auto;      /* ３．左右中央寄せにする */
-
-    max-width: 100%;
-    height: auto;
   }
   
   /* リンク類 */
